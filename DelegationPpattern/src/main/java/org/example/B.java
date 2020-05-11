@@ -1,13 +1,13 @@
 package org.example;
 
-public class A implements I {
+public class B implements I {
     @Override
     public void f() {
-        System.out.println("A: doing f()");
+        System.out.println("B: doing f()");
     }
 
     @Override
     public void g() {
-        System.out.println("A: doing g()");
+        System.out.println("B: doing g()");
     }
 }
