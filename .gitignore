@@ -33,3 +33,4 @@ LICENSE
 #Nuget packages folder
 packages/
 *.class
+/LICENSE
