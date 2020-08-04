@@ -1,4 +1,11 @@
 
+/**
+ * @author cxz
+ * @Title: ColorFactory
+ * @Package
+ * @Description:
+ * @date 2020/8/413:52
+ */
 public class ColorFactory extends AbstractFactory {
 
 	@Override

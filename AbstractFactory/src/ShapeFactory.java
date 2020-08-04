@@ -1,4 +1,10 @@
-
+/**
+ * @author cxz
+ * @Title: ShapeFactory
+ * @Package
+ * @Description:
+ * @date 2020/8/4 13:52
+ */
 public class ShapeFactory extends AbstractFactory {
 
 	@Override
