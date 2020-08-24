@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/Observer/ObserverPattern.iml" filepath="$PROJECT_DIR$/Observer/ObserverPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype/PrototypePattern.iml" filepath="$PROJECT_DIR$/Prototype/PrototypePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy/ProxyPattern.iml" filepath="$PROJECT_DIR$/Proxy/ProxyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/State/StatePattern.iml" filepath="$PROJECT_DIR$/State/StatePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/StrategyPattern.iml" filepath="$PROJECT_DIR$/Strategy/StrategyPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Visitor/VisitorPattern.iml" filepath="$PROJECT_DIR$/Visitor/VisitorPattern.iml" />
