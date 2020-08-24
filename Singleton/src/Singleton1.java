@@ -15,5 +15,5 @@ public   class Singleton1 {
         }
         return instance;
     }
- 
+
 }
