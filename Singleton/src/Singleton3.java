@@ -19,7 +19,7 @@ public   class Singleton3 {
                     instance = new Singleton3();
                 }
             }
-        }
+        }//
         return instance;
     }
 }
